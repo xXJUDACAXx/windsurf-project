@@ -1,0 +1,16 @@
+# Dominios con diferentes fechas de vencimiento para prueba
+example.com
+test.org
+demo.net
+sample.info
+site.xyz
+domain.tech
+web.app
+online.store
+digital.agency
+tech.startup
+cloud.service
+data.analytics
+mobile.app
+social.network
+ecommerce.shop
